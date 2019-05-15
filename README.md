@@ -1,5 +1,5 @@
 # smashmagazine-clone
-A webpage that clones the that of the [smashmagazine](https://www.smashingmagazine.com/) homepage. You can find the live version of the page [here](https://github.com/sonegillis.github.io/smashmagazine-clone/).
+A webpage that clones the that of the [smashmagazine](https://www.smashingmagazine.com/) homepage. You can find the live version of the page [here](https://wathigo.github.io/smashmagazine-clone/).
 
 
 ## Preliquisites
